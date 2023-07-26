@@ -6,7 +6,7 @@ services:
   fc-deploy-test: # The name of the service.
     component: fc  # The name of the component.
     props: # The property value of the component.
-      region: cn-shanghai
+      region: ap-southeast-1
       service:
         name: fctest
         description: 'test'
